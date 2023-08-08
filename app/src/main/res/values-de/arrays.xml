@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="security">
+<item>Frage auswählen</item>
+         <item>In welcher Stadt wurden Sie geboren?</item>
+         <item>Wie heißt Ihr Lieblingshaustier?</item>
+         <item>Wie lautet der Mädchenname Ihrer Mutter?</item>
+         <item>Welche High School haben Sie besucht?</item>
+         <item>Wie hieß Ihre Grundschule?</item>
+         <item>Was war die Marke Ihres ersten Autos?</item>
+         <item>Was war Ihr Lieblingsessen als Kind?</item>
+         <item>Wo haben Sie Ihren Ehepartner kennengelernt?</item>
+         <item>In welchem Jahr wurde Ihr Vater (oder Ihre Mutter) geboren?</item>
+         <item>Was war dein Lieblingssport in der Highschool?</item>
+         <item>Was ist dein Lieblingsfilm?</item>
+    </array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="security">
+     <item>Sélectionner une question</item>
+         <item>Dans quelle ville êtes-vous né ?</item>
+         <item>Quel est le nom de votre animal de compagnie préféré ?</item>
+         <item>Quel est le nom de jeune fille de votre mère ?</item>
+         <item>Quel lycée avez-vous fréquenté ?</item>
+         <item>Quel était le nom de votre école primaire ?</item>
+         <item>Quelle était la marque de votre première voiture ?</item>
+         <item>Quel était votre plat préféré quand vous étiez enfant ?</item>
+         <item>Où avez-vous rencontré votre conjoint ?</item>
+         <item>En quelle année est né votre père (ou votre mère) ?</item>
+         <item>Quel était ton sport préféré au lycée ?</item>
+         <item>Quel est votre film préféré ?</item>
+    </array>
+</resources>

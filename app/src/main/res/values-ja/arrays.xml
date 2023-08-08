@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="security">
+     <item>質問を選択</item>
+         <item>どこの都市で生まれましたか?</item>
+         <item>あなたの好きなペットの名前は何ですか?</item>
+         <item>あなたのお母さんの旧姓は何ですか?</item>
+         <item>どこの高校に通っていましたか?</item>
+         <item>あなたの小学校の名前は何ですか?</item>
+         <item>最初の車のメーカーは何ですか?</item>
+         <item>子供の頃、一番好きだった食べ物は何ですか?</item>
+         <item>配偶者とどこで出会いましたか?</item>
+         <item>あなたのお父さん（またはお母さん）は何年に生まれましたか?</item>
+         <item>高校時代に一番好きだったスポーツは何ですか?</item>
+         <item>あなたの好きな映画は何ですか?</item>
+    </array>
+</resources>

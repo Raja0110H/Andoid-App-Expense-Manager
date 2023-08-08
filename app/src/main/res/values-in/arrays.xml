@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="security">
+    <item>Pilih Pertanyaan</item>
+         <item>Di kota mana Anda lahir?</item>
+         <item>Apa nama hewan peliharaan favorit Anda?</item>
+         <item>Siapa nama gadis ibumu?</item>
+         <item>Anda bersekolah di SMA mana?</item>
+         <item>Apa nama sekolah dasar Anda?</item>
+         <item>Apa merek mobil pertama Anda?</item>
+         <item>Apa makanan favorit Anda saat kecil?</item>
+         <item>Di mana Anda bertemu pasangan Anda?</item>
+         <item>Tahun berapa ayah (atau ibu) Anda lahir?</item>
+         <item>Apa olahraga favorit Anda di SMA?</item>
+         <item>Apa film favorit Anda?</item>
+    </array>
+</resources>

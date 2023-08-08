@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="security">
+        <item>Select Question</item>
+        <item>In what city were you born?</item>
+        <item>What is the name of your favorite pet?</item>
+        <item>What is your mother\'s maiden name?</item>
+        <item>What high school did you attend?</item>
+        <item>What was the name of your elementary school?</item>
+        <item>What was the make of your first car?</item>
+        <item>What was your favorite food as a child?</item>
+        <item>Where did you meet your spouse?</item>
+        <item>What year was your father (or mother) born?</item>
+        <item>What was your favorite sport in high school?</item>
+        <item>What is your favorite movie?</item>
+    </array>
+</resources>

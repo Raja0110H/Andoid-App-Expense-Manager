@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mLin"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+
+    android:orientation="vertical"
+    android:paddingStart="1dp"
+    android:paddingEnd="1dp">
+
+
+    <FrameLayout
+        android:id="@+id/native_ad_container_google"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_gravity="bottom"
+
+        android:orientation="vertical"
+        android:paddingBottom="4dp" />
+
+    <com.facebook.ads.NativeAdLayout
+        android:id="@+id/native_ad_container_fb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:paddingBottom="4dp" />
+
+    <FrameLayout
+        android:id="@+id/native_ad_qureka"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="bottom"
+        android:paddingBottom="4dp"
+        android:visibility="gone" />
+</RelativeLayout><!--    <com.facebook.ads.NativeAdLayout-->
+    <!--        android:id="@+id/native_ad_container_fb"-->
+
+
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_gravity="bottom"-->
+    <!--        android:paddingBottom="4dp" />-->
+
+
+

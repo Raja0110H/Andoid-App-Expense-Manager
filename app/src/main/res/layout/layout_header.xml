@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/buttonlayout"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:height="60sp"
+    android:background="@color/colorPrimary"
+    android:gravity="top|left|center_vertical|center_horizontal|center"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/prevMonth"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:src="@drawable/left_arrow"
+        app:tint="@color/white30" />
+
+    <TextView
+        android:id="@+id/currentMonth"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.6"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white30" />
+
+    <ImageView
+        android:id="@+id/nextMonth"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:src="@drawable/arrow_right"
+        app:tint="@color/white30" />
+</LinearLayout>

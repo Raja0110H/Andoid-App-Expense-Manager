@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="security">
+       <item>选择问题</item>
+         <item>您出生在哪个城市？</item>
+         <item>您最喜欢的宠物叫什么名字？</item>
+         <item>你母亲的娘家姓氏是什么？</item>
+         <item>您就读于哪所高中？</item>
+         <item>你的小学叫什么名字？</item>
+         <item>您的第一辆车是什么牌子的？</item>
+         <item>你小时候最喜欢的食物是什么？</item>
+         <item>您在哪里认识您的配偶？</item>
+         <item>您的父亲（或母亲）是哪一年出生的？</item>
+         <item>你高中时最喜欢的运动是什么？</item>
+         <item>你最喜欢的电影是什么？</item>
+    </array>
+</resources>

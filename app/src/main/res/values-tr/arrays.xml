@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="security">
+        <item>Soru Seç</item>
+         <item>Hangi şehirde doğdunuz?</item>
+         <item>En sevdiğiniz evcil hayvanın adı nedir?</item>
+         <item>Annenizin kızlık soyadı nedir?</item>
+         <item>Hangi liseye gittiniz?</item>
+         <item>İlkokulunuzun adı neydi?</item>
+         <item>İlk arabanızın markası neydi?</item>
+         <item>Çocukken en sevdiğiniz yemek neydi?</item>
+         <item>Eşinizle nerede tanıştınız?</item>
+         <item>Babanız (veya anneniz) hangi yılda doğdu?</item>
+         <item>Lisede en sevdiğiniz spor hangisiydi?</item>
+         <item>En sevdiğiniz film hangisi?</item>
+    </array>
+</resources>

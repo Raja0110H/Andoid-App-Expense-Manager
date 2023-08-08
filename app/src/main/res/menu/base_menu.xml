@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/grp1">
+        <item
+            android:id="@+id/action_account"
+            android:icon="@drawable/ic_menu_account"
+            android:orderInCategory="100"
+            android:title="@string/action_account"
+            android:visible="false" />
+        <item
+            android:id="@+id/action_details"
+            android:icon="@drawable/ic_menu_transaction"
+            android:orderInCategory="100"
+            android:title="@string/action_details" />
+        <item
+            android:id="@+id/action_analytics"
+            android:icon="@drawable/ic_menu_analytics"
+            android:orderInCategory="100"
+            android:title="@string/action_analytics" />
+
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_menu_setting"
+            android:orderInCategory="100"
+            android:title="@string/action_settings" />
+    </group>
+
+
+</menu>

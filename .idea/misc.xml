@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager - github/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.208" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager - github/app/src/main/res/drawable/timepicker_input.xml" value="0.193" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager - github/app/src/main/res/layout/activity_settings.xml" value="0.4069086651053864" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager - github/app/src/main/res/layout/dialog_number_picker.xml" value="0.44375" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager - github/app/src/main/res/layout/nav_header_main.xml" value="0.44375" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager - github/app/src/main/res/layout/status_activity_splash.xml" value="0.8025793650793651" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager - github/app/src/main/res/menu/base_menu.xml" value="0.44375" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/bg_ads_choice.xml" value="0.208" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/bg_btn_ads.xml" value="0.208" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/border.xml" value="0.208" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/data_bg.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/gradient_theme.xml" value="0.193" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/ic_menu_account.xml" value="0.192" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/ic_menu_setting.xml" value="0.193" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/ic_next_finish.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/layout_background.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/local_ads_network_btn.xml" value="0.193" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/new_title_bg.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/red.xml" value="0.208" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/round_btn.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/side_nav_bar.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/switch_on_off.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/switch_out_line.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/switch_select_background.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/timepicker_down_btn.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/timepicker_input.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/timepicker_up_btn.xml" value="0.1715" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/title_bg.xml" value="0.208" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/toggle_widget_background.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/drawable/user_select_background.xml" value="0.171" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_account_list.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_analytics.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_category_list.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_details.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_emailconfirm.xml" value="0.13405797101449277" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_home.xml" value="0.4930555555555556" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_intro.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_login.xml" value="0.67" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_manage_account.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_manage_category.xml" value="0.9" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_manage_manager.xml" value="0.9" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_manage_template.xml" value="0.75" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_pinconfirm.xml" value="0.4069086651053864" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_pinenter.xml" value="0.67" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_settings.xml" value="0.75" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/activity_xls.xml" value="0.8204365079365079" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/ad_native_medium_admob.xml" value="0.8253968253968254" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/ad_native_medium_fb.xml" value="0.8253968253968254" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/ad_unified.xml" value="0.8253968253968254" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/ad_unified_other.xml" value="0.44375" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/ads_custom_banner.xml" value="0.44375" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/alert_dialog.xml" value="1.0" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/app_bar_main.xml" value="0.10885416666666667" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/content_main.xml" value="0.28396739130434784" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/custom_native.xml" value="0.8253968253968254" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/dialog_account_list.xml" value="0.17603850050658562" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/dialog_category_picker.xml" value="1.109375" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/dialog_currency_list.xml" value="1.5757575757575757" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/dialog_image.xml" value="0.5689102564102564" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/dialog_number_picker.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/dialog_permission_screen.xml" value="0.8194444444444444" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/exportoption.xml" value="0.33" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/fb_nativead_unit.xml" value="0.44375" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/fragment_chart.xml" value="0.25" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/fragment_details.xml" value="0.67" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/fragment_manager_list.xml" value="0.67" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/layout_bottom_sheet.xml" value="1.5757575757575757" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/layout_details_custom.xml" value="0.8204365079365079" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/layout_header.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/list_item_category.xml" value="0.33" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/list_item_category_setting.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/list_item_color.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/list_item_manager.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/list_item_select_category.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/list_item_spending_limit.xml" value="0.17603850050658562" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/listview_txt.xml" value="1.0" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/medium_native_fb_admob.xml" value="0.44375" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/nav_header_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/red.xml" value="0.3619791666666667" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/selectiomoption.xml" value="0.8204365079365079" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/sequrityquestion.xml" value="0.6491228070175439" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/layout/status_activity_splash.xml" value="0.67" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/menu/add_income_expense.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/menu/add_menu.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/menu/add_menu_with_sub.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/menu/base_menu.xml" value="0.75" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/menu/edit_action_menu.xml" value="0.18489583333333334" />
+        <entry key="..\:/HeavenInfo Soft/code/Expense Manager/app/src/main/res/menu/main.xml" value="0.18489583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
