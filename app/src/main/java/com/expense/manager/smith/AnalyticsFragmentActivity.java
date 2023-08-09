@@ -28,7 +28,7 @@ public class AnalyticsFragmentActivity extends BaseActivity {
         super.onCreate(bundle);
         setContentView((int) R.layout.activity_analytics);
         ActionBar supportActionBar = getSupportActionBar();
-        supportActionBar.setTitle((CharSequence) Html.fromHtml("<font color='#ffffff'>" + getResources().getString(R.string.app_name) + "</font>"));
+        supportActionBar.setTitle((CharSequence) Html.fromHtml("<font color='#ffffff'>" + getResources().getString(R.string.analytics) + "</font>"));
         getSupportActionBar().setElevation(1.0f);
         this.tabLayout = (TabLayout) findViewById(R.id.tabs);
         ViewPager viewPager2 = (ViewPager) findViewById(R.id.viewpager);

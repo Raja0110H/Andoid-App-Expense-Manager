@@ -29,7 +29,7 @@ public class SpendingLimitActivity extends BaseActivity {
         super.onCreate(bundle);
         setContentView((int) R.layout.activity_spending_limit);
         ActionBar supportActionBar = getSupportActionBar();
-        supportActionBar.setTitle((CharSequence) Html.fromHtml("<font color='#ffffff'>" + getResources().getString(R.string.app_name) + "</font>"));
+        supportActionBar.setTitle((CharSequence) Html.fromHtml("<font color='#ffffff'>" + getResources().getString(R.string.spending_limit) + "</font>"));
         this.context = this;
         this.f89db = new MyDatabaseHandler(this);
         this.lvSpending = (ListView) findViewById(R.id.list_spending_limit);

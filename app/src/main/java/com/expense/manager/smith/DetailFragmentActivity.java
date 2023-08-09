@@ -1,8 +1,10 @@
 package com.expense.manager.smith;
 
 import android.os.Bundle;
+import android.text.Html;
 import android.view.View;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
@@ -32,8 +34,8 @@ public class DetailFragmentActivity extends BaseActivity {
 //        adAdmob.BannerAd((RelativeLayout) findViewById(R.id.bannerAd), this);
 //        adAdmob.FullscreenAd(this);
 //        getSupportActionBar().setElevation(1.0f);
-//        ActionBar supportActionBar = getSupportActionBar();
-//        supportActionBar.setTitle((CharSequence) Html.fromHtml("<font color='#ffffff'>" + getResources().getString(R.string.app_name) + "</font>"));
+        ActionBar supportActionBar = getSupportActionBar();
+        supportActionBar.setTitle((CharSequence) Html.fromHtml("<font color='#ffffff'>" + getResources().getString(R.string.recent_transaction) + "</font>"));
         this.tabLayout = (TabLayout) findViewById(R.id.tabs);
         ViewPager viewPager2 = (ViewPager) findViewById(R.id.viewpager);
         this.viewPager = viewPager2;

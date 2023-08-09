@@ -14,7 +14,7 @@
     <color name="black1">#000000</color>
     <color name="blue">#5262bc</color>
     <color name="pink">#e91e63</color>
-    <color name="background">#C3B6BA</color>
+    <color name="background">#FFFFFF</color>
     <color name="detail_expense">#990000</color>
     <color name="detail_income">#009900</color>
     <color name="add_account_bg">#e0e0e0</color>
