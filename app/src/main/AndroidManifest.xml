@@ -3,6 +3,10 @@
     package="com.expense.manager">
 
 
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -61,6 +65,10 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".smith.SettingActivity"
+            android:label="settings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".smith.SpendingLimitActivity"
             android:label="settings"
             android:screenOrientation="portrait" />
         <activity
